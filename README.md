@@ -14,7 +14,7 @@ $ sudo mv Xvfb /etc/init.d
 
 $ sudo chmod 755 /etc/init.d/Xvfb
 
-$ useradd -r debian-xvfb
+$ sudo useradd -r debian-xvfb
 
 $ sudo /etc/init.d/Xvfb start
 ```
