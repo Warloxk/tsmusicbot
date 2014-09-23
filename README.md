@@ -4,6 +4,8 @@
 
 ### TeamSpeak 3 client
 
+Tipp: For the client to make it work, setup the client with GUI first and then copy the settings files back to headless server. (Set it to auto connet on startup to your server)
+
 ```shell
 $ sudo apt-get install xvfb libglib2.0-0 libpng12-0 libxcursor1 libxinerama1 \
   libxrandr2 libfontconfig1 pulseaudio
